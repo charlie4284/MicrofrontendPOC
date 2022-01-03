@@ -1,0 +1,1 @@
+export const CHALLENGE_MFA = "SOFTWARE_TOKEN_MFA"
